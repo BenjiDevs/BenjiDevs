@@ -1,11 +1,11 @@
-- INTRODUCTION
+* INTRODUCTION *
 - 👋 Hi, I’m @BenjiDevs
 - 👀 I’m interested in game and software development
 - 🌱 I’m currently learning Java, Command-Line, and Godot
 - 💞️ I’m looking to collaborate on Gdevelop Jams, Godot Jams, and any other Jams
 - 📫 How to reach me @!Ben#8116
 
-- ABOUT ME
+* ABOUT ME *
 - I'm a Cybersecurity major at Penn State University
 - I love boba & poke bowls
 
